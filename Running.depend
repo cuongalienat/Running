@@ -1,0 +1,123 @@
+# depslib dependency file v1.0
+1712414146 source:d:\dino chrome\basefunctions.cpp
+	"BaseFunctions.h"
+	"Characters.h"
+	"Threats.h"
+
+1713068826 d:\dino chrome\basefunctions.h
+	<SDL.h>
+	<bits/stdc++.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<sstream>
+	<fstream>
+
+1713510009 d:\dino chrome\characters.h
+	"LTexture.h"
+
+1712414209 d:\dino chrome\ltexture.h
+	"BaseFunctions.h"
+
+1713536374 d:\dino chrome\threats.h
+	"BaseFunctions.h"
+	"LTexture.h"
+
+1714470466 source:d:\dino chrome\characters.cpp
+	"Characters.h"
+	"BaseFunctions.h"
+	"Threats.h"
+
+1714470728 source:d:\dino chrome\game_utils.cpp
+	"Game_Utils.h"
+	"LTexture.h"
+
+1713538649 d:\dino chrome\game_utils.h
+	"LTexture.h"
+	"BaseFunctions.h"
+
+1713254823 source:d:\dino chrome\ltexture.cpp
+	"LTexture.h"
+	"BaseFunctions.h"
+
+1712413336 source:d:\dino chrome\ltimer.cpp
+	"LTimer.h"
+	"BaseFunctions.h"
+
+1712413403 d:\dino chrome\ltimer.h
+
+1714470975 source:d:\dino chrome\main.cpp
+	"LTexture.h"
+	"BaseFunctions.h"
+	"LTimer.h"
+	"Characters.h"
+	"Threats.h"
+	"Game_Utils.h"
+
+1714470486 source:d:\dino chrome\threats.cpp
+	"Threats.h"
+	"BaseFunctions.h"
+	<cstdlib>
+	<ctime>
+
+1712414146 source:d:\running\basefunctions.cpp
+	"BaseFunctions.h"
+	"Characters.h"
+	"Threats.h"
+
+1713068826 d:\running\basefunctions.h
+	<SDL.h>
+	<bits/stdc++.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<sstream>
+	<fstream>
+
+1713510009 d:\running\characters.h
+	"LTexture.h"
+
+1712414209 d:\running\ltexture.h
+	"BaseFunctions.h"
+
+1713536374 d:\running\threats.h
+	"BaseFunctions.h"
+	"LTexture.h"
+
+1714470466 source:d:\running\characters.cpp
+	"Characters.h"
+	"BaseFunctions.h"
+	"Threats.h"
+
+1714470728 source:d:\running\game_utils.cpp
+	"Game_Utils.h"
+	"LTexture.h"
+
+1713538649 d:\running\game_utils.h
+	"LTexture.h"
+	"BaseFunctions.h"
+
+1713254823 source:d:\running\ltexture.cpp
+	"LTexture.h"
+	"BaseFunctions.h"
+
+1712413336 source:d:\running\ltimer.cpp
+	"LTimer.h"
+	"BaseFunctions.h"
+
+1712413403 d:\running\ltimer.h
+
+1715440322 source:d:\running\main.cpp
+	"LTexture.h"
+	"BaseFunctions.h"
+	"LTimer.h"
+	"Characters.h"
+	"Threats.h"
+	"Game_Utils.h"
+
+1714470486 source:d:\running\threats.cpp
+	"Threats.h"
+	"BaseFunctions.h"
+	<cstdlib>
+	<ctime>
+
